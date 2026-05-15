@@ -1,0 +1,217 @@
+[
+  {
+    "id": 1,
+    "titre": "Pod et Marichou",
+    "genre": ["Romance", "Comédie"],
+    "chaine": "2STV",
+    "annee": 2016,
+    "saisons": 4,
+    "note": 4.7,
+    "synopsis": "L'histoire d'amour tumultueuse entre Pod, un jeune homme attachant et maladroit, et Marichou, une femme déterminée et indépendante. Leurs différences sociales et culturelles rendent leur relation aussi drôle que touchante.",
+    "image": "/images/series/pod_marichou.png",
+    "acteurs": [
+      { "nom": "Mariétou Diop", "role": "Marichou", "photo": "/images/acteurs/marichou.png" },
+      { "nom": "Carole Valérie Andrade", "role": "Eva", "photo": "/images/acteurs/eva.png" },
+      { "nom": "Pa Oumar Diop", "role": "Pod", "photo": "/images/acteurs/pod.png" }
+    ],
+    "enCours": false
+  },
+  {
+    "id": 2,
+    "titre": "Famille Sénégalaise",
+    "genre": ["Comédie", "Famille"],
+    "chaine": "RTS1",
+    "annee": 2014,
+    "saisons": 4,
+    "note": 4.3,
+    "synopsis": "Portrait authentique d'une famille sénégalaise multigénérationnelle à Dakar. La série met en lumière les tensions entre modernité et tradition, les solidarités familiales et les aspirations individuelles de chaque membre.",
+    "image": "/images/series/une_famille_senegalaise.png",
+    "acteurs": [
+      { "nom": "Aminata Wade", "role": "Sokhna Bator", "photo": "/images/acteurs/famille_aminata_wade.jpg" },
+      { "nom": "Mar Lô", "role": "Le père de famille", "photo": "/images/acteurs/famille_mar_lo.png" },
+      { "nom": "Ndeya", "role": "Alima", "photo": "/images/acteurs/famille_ndeya.png" }
+    ],
+    "enCours": false
+  },
+  {
+    "id": 3,
+    "titre": "Mères & Mensonges",
+    "genre": ["Drame", "Thriller"],
+    "chaine": "Marodi TV",
+    "annee": 2024,
+    "saisons": 1,
+    "note": 4.5,
+    "synopsis": "Une série haletante qui plonge au cœur des secrets de famille, des trahisons et des mensonges qui détruisent les liens les plus sacrés. Entre procès, révélations et vengeance, chaque épisode réserve son lot de surprises.",
+    "image": "/images/series/meres_mensonges.png",
+    "acteurs": [
+      { "nom": "Mariétou Diop", "role": "Amélie Diagne", "photo": "/images/acteurs/meres_marietou.png" },
+      { "nom": "Amy Lucia Diop", "role": "Aminata Fall", "photo": "/images/acteurs/meres_amy.png" }
+    ],
+    "enCours": true
+  },
+  {
+    "id": 4,
+    "titre": "L'Épouse du Cheikh",
+    "genre": ["Drame", "Romance"],
+    "chaine": "Marodi TV",
+    "annee": 2024,
+    "saisons": 1,
+    "note": 4.4,
+    "synopsis": "Une série romantique et dramatique qui explore les tensions entre un homme puissant, son épouse loyale et les rivalités qui menacent leur union. Entre amour, pouvoir et trahison, une histoire qui captive des millions de téléspectateurs.",
+    "image": "/images/series/epouse_cheikh.png",
+    "acteurs": [
+      { "nom": "Acteur principal", "role": "Le Cheikh", "photo": "/images/acteurs/default.png" },
+      { "nom": "Actrice principale", "role": "L'épouse", "photo": "/images/acteurs/default.png" }
+    ],
+    "enCours": true
+  },
+  {
+    "id": 5,
+    "titre": "Doomu Baay",
+    "genre": ["Drame", "Famille"],
+    "chaine": "TFM",
+    "annee": 2024,
+    "saisons": 1,
+    "note": 4.6,
+    "synopsis": "Une série familiale puissante qui suit les enfants d'un grand patriarche sénégalais, tiraillés entre héritage, rivalités et amours contrariées. Diffusée sur Marodi TV et TFM, elle a conquis des millions de téléspectateurs dès ses premières semaines.",
+    "image": "/images/series/doomu_baay.png",
+    "acteurs": [
+      { "nom": "Aminata Wade", "role": "Khadija Niang", "photo": "/images/acteurs/doomu_aminata.png" },
+      { "nom": "Aminatou Aidara", "role": "Aissatou Niang", "photo": "/images/acteurs/doomu_aminatou.png" }
+    ],
+    "enCours": true
+  },
+  {
+    "id": 6,
+    "titre": "Cœurs Brisés",
+    "genre": ["Romance", "Drame"],
+    "chaine": "Evenprod",
+    "annee": 2023,
+    "saisons": 1,
+    "note": 4.5,
+    "synopsis": "Gros succès chez les jeunes, Cœurs Brisés raconte les peines d'amour, les trahisons sentimentales et les reconstructions personnelles de jeunes Sénégalais dans le Dakar d'aujourd'hui. Aimer et haïr, telle est leur devise.",
+    "image": "/images/series/coeurs_brises.png",
+    "acteurs": [
+      { "nom": "Abdoul Khadir Razaq Gadji", "role": "Chams / Kader", "photo": "/images/acteurs/coeurs_abdoul.png" },
+      { "nom": "Maïmouna Fall", "role": "Ramatoulaye", "photo": "/images/acteurs/coeurs_maimouna.png" },
+      { "nom": "Liliane Zahra Sokhna Maroune", "role": "Aïssatou", "photo": "/images/acteurs/coeurs_liliane.png" },
+      { "nom": "Moussa Sow", "role": "Massamba", "photo": "/images/acteurs/coeurs_moussa.png" }
+    ],
+    "enCours": true
+  },
+  {
+    "id": 7,
+    "titre": "Timis L'Or Noir",
+    "genre": ["Thriller", "Politique"],
+    "chaine": "Evenprod",
+    "annee": 2024,
+    "saisons": 1,
+    "note": 4.6,
+    "synopsis": "Dans les ténèbres du pouvoir, Timis L'Or Noir plonge dans les coulisses d'un empire pétrolier sénégalais. Entre corruption, trahisons politiques et luttes d'influence, une série haletante sur le prix du pouvoir et de la richesse.",
+    "image": "/images/series/timis_or_noir.png",
+    "acteurs": [
+      { "nom": "Mouhamed Kaba Dia", "role": "Sassoumane", "photo": "/images/acteurs/timis_mouhamed.png" },
+      { "nom": "Kader Gadji", "role": "Ministre Kanté", "photo": "/images/acteurs/timis_kader.png" },
+      { "nom": "Adja Astou Cissé", "role": "Maliya Samb", "photo": "/images/acteurs/timis_adja.png" }
+    ],
+    "enCours": true
+  },
+  {
+    "id": 8,
+    "titre": "Bété Bété",
+    "genre": ["Drame", "Société"],
+    "chaine": "Evenprod",
+    "annee": 2023,
+    "saisons": 1,
+    "note": 4.8,
+    "synopsis": "Énorme succès avec des centaines de millions de vues, Bété Bété plonge au cœur des tensions liées aux castes et aux rivalités familiales au Sénégal. Une série qui a bousculé les tabous et provoqué un vrai débat de société.",
+    "image": "/images/series/bete_bete.png",
+    "acteurs": [
+      { "nom": "Ramatoulaye Diagne", "role": "Diouma Thiam Sall", "photo": "/images/acteurs/bete_ramatoulaye.png" },
+      { "nom": "Cheikhou Gueye", "role": "Ndiaga Thiam", "photo": "/images/acteurs/bete_cheikhou.png" },
+      { "nom": "Soumboulou Bathily", "role": "Marième Sall", "photo": "/images/acteurs/bete_soumboulou.png" },
+      { "nom": "Fatima Sall", "role": "Dieynaba Tall", "photo": "/images/acteurs/bete_fatima.png" }
+    ],
+    "enCours": true
+  },
+  {
+    "id": 9,
+    "titre": "Karma",
+    "genre": ["Thriller", "Mystère"],
+    "chaine": "Marodi TV",
+    "annee": 2020,
+    "saisons": 3,
+    "note": 4.5,
+    "synopsis": "Une série mystérieuse et envoûtante où les personnages font face aux conséquences de leurs actes passés. Entre vengeance, rédemption et révélations, Karma explore les liens invisibles qui unissent les destins.",
+    "image": "/images/series/karma.png",
+    "acteurs": [
+      { "nom": "Mareme Dial", "role": "Rôle principal", "photo": "/images/acteurs/karma_mareme.png" },
+      { "nom": "Lissa Zehra", "role": "Rôle principal", "photo": "/images/acteurs/karma_lissa.png" }
+    ],
+    "enCours": true
+  },
+  {
+    "id": 10,
+    "titre": "Baabel",
+    "genre": ["Drame", "Famille"],
+    "chaine": "Marodi TV",
+    "annee": 2023,
+    "saisons": 2,
+    "note": 4.7,
+    "synopsis": "L'une des séries les plus regardées et discutées sur les réseaux sociaux en 2024. Baabel explore les conflits au sein d'une grande famille sénégalaise tiraillée entre tradition et modernité, richesse et pauvreté.",
+    "image": "/images/series/baabel.png",
+    "acteurs": [
+      { "nom": "Sidy Diop", "role": "Personnage central", "photo": "/images/acteurs/baabel_sidy.png" },
+      { "nom": "Mame Fatou Ndiaye", "role": "Rôle marquant", "photo": "/images/acteurs/baabel_mame.png" },
+      { "nom": "Oumou Sow", "role": "Rôle principal", "photo": "/images/acteurs/baabel_oumou.png" }
+    ],
+    "enCours": true
+  },
+  {
+    "id": 11,
+    "titre": "Maîtresse d'un Homme Marié",
+    "genre": ["Drame", "Romance"],
+    "chaine": "A+",
+    "annee": 2018,
+    "saisons": 3,
+    "note": 4.6,
+    "synopsis": "Une série qui explore les relations complexes entre hommes et femmes dans la société sénégalaise moderne. Elle aborde avec audace les thèmes de la polygamie, de la trahison et de l'émancipation féminine.",
+    "image": "/images/series/maitresse.png",
+    "acteurs": [
+      { "nom": "Halima Gadji", "role": "Marème Dial", "photo": "/images/acteurs/maitresse_halima.png" }
+    ],
+    "enCours": true
+  },
+  {
+    "id": 12,
+    "titre": "Impact",
+    "genre": ["Drame", "Social"],
+    "chaine": "Marodi TV",
+    "annee": 2023,
+    "saisons": 2,
+    "note": 4.4,
+    "synopsis": "Une série percutante qui explore les impacts des choix de vie sur des personnages ordinaires pris dans des situations extraordinaires. Entre amour, trahison et résilience, Impact touche au plus profond des émotions humaines.",
+    "image": "/images/series/impact.png",
+    "acteurs": [
+      { "nom": "Mareme Dial", "role": "Rôle principal", "photo": "/images/acteurs/impact_mareme.png" },
+      { "nom": "Cheikh Ndao", "role": "Rôle principal", "photo": "/images/acteurs/impact_cheikh.png" }
+    ],
+    "enCours": true
+  },
+  {
+    "id": 13,
+    "titre": "Golden",
+    "genre": ["Drame", "Famille"],
+    "chaine": "Marodi TV",
+    "annee": 2019,
+    "saisons": 2,
+    "note": 4.5,
+    "synopsis": "Au nom de la famille Gaye, Golden suit les luttes de pouvoir, les trahisons et les secrets d'une famille de l'élite sénégalaise. Une saga familiale épique entre richesse, vengeance et honneur.",
+    "image": "/images/series/golden.png",
+    "acteurs": [
+      { "nom": "Fadel", "role": "Fadel Gaye", "photo": "/images/acteurs/golden_fadel.png" },
+      { "nom": "Abdoulaye Diallo", "role": "Personnage majeur", "photo": "/images/acteurs/golden_abdoulaye.png" }
+    ],
+    "enCours": false
+  }
+]
